@@ -1,0 +1,119 @@
+{
+  "job_list": [
+    {
+      "id": 1,
+      "posisi": "Frontend Developer",
+      "job_desc": "Membuat Aplikasi berbasis web...",
+      "gaji": "3.500.000",
+      "requirement": [
+        "2+ Pengalaman kerja dibidang yang sama",
+        "Menguasai ReactJs, NextJs, dan Tailwind"
+      ],
+      "tag": [
+        "ReactJs",
+        "NextJs",
+        "Tailwind",
+        "HTML+CSS"
+      ],
+      "nama_perusahaan": "PT. Bintang Kejora",
+      "alamat": "Palembang, Sumatera Selatan",
+      "email": "bintangkejora@code.com"
+    },
+    {
+      "id": 2,
+      "posisi": "Backend Developer",
+      "job_desc": "Membuat Aplikasi berbasis web...",
+      "gaji": "3.500.000",
+      "requirement": [
+        "2+ Pengalaman kerja dibidang yang sama",
+        "Menguasai Framework Laravel"
+      ],
+      "tag": [
+        "PHP",
+        "Laravel",
+        "Backend"
+      ],
+      "nama_perusahaan": "PT. Bintang Kejora",
+      "alamat": "Palembang, Sumatera Selatan",
+      "email": "bintangkejora@code.com"
+    },
+    {
+      "id": 3,
+      "posisi": "Frontend Developer",
+      "job_desc": "Membuat Aplikasi berbasis web...",
+      "gaji": "4.500.000",
+      "requirement": [
+        "2+ Pengalaman kerja dibidang yang sama",
+        "Menguasai ReactJs, NextJs, dan Tailwind"
+      ],
+      "tag": [
+        "ReactJs",
+        "NextJs",
+        "Tailwind",
+        "HTML+CSS"
+      ],
+      "nama_perusahaan": "PT. Gerhana Matahari",
+      "alamat": "Jakarta",
+      "email": "gerhana@code.com"
+    },
+    {
+      "posisi": "Driver",
+      "job_desc": "mengantar penumpang ke tujuan",
+      "gaji": "2.500.000",
+      "requirement": "sim a sim c",
+      "tag": [
+        "driver",
+        "sim a",
+        "sim c"
+      ],
+      "nama_perusahaan": "Maju Mobil",
+      "alamat": "Palembang",
+      "email": "company1@gmail.com",
+      "id": 5
+    },
+    {
+      "posisi": "Driver",
+      "job_desc": "mengantarkan barang",
+      "gaji": "2.500.000",
+      "requirement": "sim c",
+      "tag": [
+        "sim c",
+        "driver",
+        "antar paket"
+      ],
+      "nama_perusahaan": "Maju Motor",
+      "alamat": "Palembang",
+      "email": "company2@gmail.com",
+      "id": 6
+    },
+    {
+      "posisi": "Programmer",
+      "job_desc": "Membuat aplikasi mobile dan web",
+      "gaji": "5.000.000",
+      "requirement": "S1 Teknik Informatika",
+      "tag": [
+        "IT",
+        "Programmer"
+      ],
+      "nama_perusahaan": "Komputer Jaya",
+      "alamat": "Palembang",
+      "email": "jaya@comp.com",
+      "id": 7
+    },
+    {
+      "posisi": "Teknisi Komputer",
+      "job_desc": "Mengawasi dan memperbaiki perangkat komputer",
+      "gaji": "4.000.000",
+      "requirement": "S1 Sistem Komputer",
+      "tag": [
+        "SK",
+        "komputer",
+        "teknisi IT"
+      ],
+      "nama_perusahaan": "Komputer Maju",
+      "alamat": "Jakarta",
+      "email": "majukomp@gmail.com",
+      "id": 8
+    }
+  ]
+}
